@@ -1,4 +1,3 @@
-/* MY PERSONAL WEBSITE */ 
  body{
     background-color: #EAF6F6;
 }
@@ -18,28 +17,3 @@ h1,h3{
 img{
     width: 50%;
 }
-
-/* TAG SELECTORS */
-/* H1{
-    color: aqua;
-    font-size: 150PX;
-}
-
-img:hover{
-    background-color: gray;
-}
-
-
-/* CLASS SELECTORS */
-/* .Wine{
-   background-color: green;
-}
-
-.Beer{
-    background-color: red;
-}
-
-/* ID SELECTOR */
-/* #heading{
-    color: blue;
-} */
